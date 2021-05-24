@@ -50,7 +50,7 @@ Cloth:
   m_GameObject: {fileID: 1000010000609498}
   m_Enabled: 1
   m_StretchingStiffness: 1
-  m_BendingStiffness: 0.2
+  m_BendingStiffness: 0.75
   m_UseTethers: 1
   m_UseGravity: 1
   m_Damping: 0
