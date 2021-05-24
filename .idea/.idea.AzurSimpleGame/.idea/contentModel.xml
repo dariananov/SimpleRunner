@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\PlasticWorkspaces\AzurSimpleGame" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Application" t="Include">
+            <e p="ApplicationController.cs" t="Include" />
+            <e p="ApplicationModel.cs" t="Include" />
+            <e p="ApplicationView.cs" t="Include" />
+            <e p="FinishApplicationView.cs" t="Include" />
+            <e p="IApplicationModel.cs" t="Include" />
+            <e p="MultiApplicationView.cs" t="Include" />
+            <e p="PlayingApplicationView.cs" t="Include" />
+            <e p="WaitingApplicationView.cs" t="Include" />
+          </e>
+          <e p="GameLogic" t="Include">
+            <e p="CharacterMover.cs" t="Include" />
+            <e p="CoinsCollector.cs" t="Include" />
+            <e p="CoinsSpawner.cs" t="Include" />
+            <e p="DestroyTrigger.cs" t="Include" />
+            <e p="EarthRotator.cs" t="Include" />
+            <e p="FinishLineSpawner.cs" t="Include" />
+            <e p="GameTimer.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Store" t="Include">
+          <e p="SimpleLowPolyNature" t="Include">
+            <e p="Readme.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="SimpleWater.shader" t="Include" />
+            </e>
+          </e>
+          <e p="UI Buttons" t="Include">
+            <e p="Documentation" t="Include">
+              <e p="Readme.txt" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Controller.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="AzurSimpleGame.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\79647\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\79647\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_AzurSimpleGame.980830675.00" t="ExcludeRecursive" />
+  </component>
+</project>
